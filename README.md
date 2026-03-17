@@ -32,12 +32,3 @@ A mobile app built with **MIT App Inventor** and **Firebase** — featuring user
 | [Firebase Authentication](https://firebase.google.com/docs/auth) | User login & registration |
 | [Cloud Firestore](https://firebase.google.com/docs/firestore) | Cloud database for user data |
 | Firebase REST API | Communication between App Inventor and Firebase |
-## 🤝 Contributing
-
-Feel free to fork this project, open issues, or submit pull requests!
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
