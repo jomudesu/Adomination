@@ -8,7 +8,7 @@ A mobile app built with **MIT App Inventor** and **Firebase** — featuring user
 
 | Sign Up | Sign In | Welcome |
 |--------|---------|---------|
-| ![Sign Up](screenshots/signup.png) | ![Sign In](screenshots/signin.png) | ![Welcome](screenshots/welcome.png) |
+| ![Sign Up](screenshots/login.jpg) | ![Sign In](screenshots/register.jpg) | ![Welcome](screenshots/welcome.jpg) |
 
 ---
 
