@@ -1,6 +1,6 @@
 # 🌍 Adomination
 
-A mobile app built with **MIT App Inventor** and **Firebase** — featuring user authentication, email verification, and a personalized welcome screen.
+A simple mobile app built with **MIT App Inventor** and **Firebase** — featuring user authentication, email verification, and a personalized welcome screen.
 
 ---
 
@@ -17,9 +17,9 @@ A mobile app built with **MIT App Inventor** and **Firebase** — featuring user
 - 📧 **Email & Password Registration** via Firebase Authentication
 - ✅ **Email Verification** — users must verify before logging in
 - 🔐 **Secure Sign In** with error messages for invalid credentials
-- 🎨 **Personalized Welcome Screen** displaying the user's nickname in cyan
+- 🎨 **Personalized Welcome Screen** displaying the user's nickname in cyan (Local Only)
 - 🔑 **Forgot Password** with email format validation and existence check
-- ☁️ **Firestore Integration** — nickname and email saved to cloud database (Incomplete)
+- ☁️ **Firestore Integration** — nickname and email saved to cloud database (Incomplete - Email Only)
 - 🚪 **Logout** with session clearing
 
 ---
